@@ -1,0 +1,26 @@
+<fragment
+    android:id="@+id/homeFragment"
+    android:name="com.example.grandsaveauto2.ui.home.HomeFragment"
+    android:label="Home"/>
+
+<fragment
+android:id="@+id/historyFragment"
+android:name="com.example.grandsaveauto2.ui.history.HistoryFragment"
+android:label="History"/>
+
+<fragment
+android:id="@+id/budgetFragment"
+android:name="com.example.grandsaveauto2.ui.budget.BudgetFragment"
+android:label="Budget"/>
+
+
+<fragment
+android:id="@+id/addExpenseFragment"
+android:name="com.example.grandsaveauto2.ui.expenses.AddExpenseFragment"
+android:label="Add Expense"/>
+
+<fragment
+android:id="@+id/remindersFragment"
+android:name="com.example.grandsaveauto2.ui.reminders.RemindersFragment"
+android:label="Reminders"/>
+

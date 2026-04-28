@@ -1,0 +1,5 @@
+<LinearLayout>
+    <!-- existing content -->
+
+<include layout="@layout/include_bottom_nav"/>
+    </LinearLayout>
