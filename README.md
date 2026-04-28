@@ -54,3 +54,6 @@ It merges financial tracking with RPG-style mechanics: users earn EXP, level up,
 ## Screenshots
 (docs/screenshots)
 
+## Video Link
+https://youtube.com/shorts/Nl5AT0450p8?si=EYscLmvxekJDpoHA
+
